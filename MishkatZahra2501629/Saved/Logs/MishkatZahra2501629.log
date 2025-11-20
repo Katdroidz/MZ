@@ -1958,3 +1958,4 @@ FPackageName: Skipped package /Game/StarterContent/Materials/M_Metal_Brushed_Nic
 [2025.11.20-09.01.15:153][914]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
 [2025.11.20-09.01.15:153][914]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[SDKConfig], OperationName=[GetPlatformConfigRoute], Url=[<Redacted>]
 [2025.11.20-09.01.15:486][914]LogEOSSDK: Warning: LogEOS: SDK Config Platform Update Request Failed, Result Code: EOS_NoConnection, Retrying after 6.397290 seconds
+[2025.11.20-09.01.21:826][933]LogEOSSDK: LogEOS: Updating Platform SDK Config, Time: 87.039085
