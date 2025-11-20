@@ -1099,3 +1099,5 @@ LogConfig: Set CVar [[r.PSOPrecache.GlobalShaders:1]]
 [2025.11.20-08.46.42:547][  0]LogMaterial: Display: Missing cached shadermap for DefaultDeferredDecalMaterial in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 9a2e1505332e98dee60639ebb1bc46ac0e5c986f), compiling. 
 [2025.11.20-08.46.42:613][  0]LogMaterial: Display: Missing cached shadermap for DefaultLightFunctionMaterial in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 9651eae1a0f9bac4766d776b641c339ac55708cd), compiling. 
 [2025.11.20-08.46.44:409][  0]LogTurnkeySupport: Completed device detection: Code = 0
+[2025.11.20-08.48.38:132][  0]LogDerivedDataCache: C:/Users/TEMP.AUSTD.002/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.11.20-08.50.31:911][  0]LogShaderCompilers: Display: Job FTSRRejectShadingCS(permutation 41, format PCD3D_SM6) compile time exceeded threshold (35.767s)
